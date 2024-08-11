@@ -1,2 +1,2 @@
 # Proyecto final
- Repositorio para las entregas del proyecto final de JaP.
+Este es mi repositorio para las entregas del proyecto final de JaP.
